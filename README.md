@@ -5,7 +5,7 @@
 
 
 ## Sobre
-Repositório criado para estudar os padrões de projeto.
+Repositório criado para estudar os padrões de projeto utilizando a linguagem PHP.
 
 ## Instalação
 
