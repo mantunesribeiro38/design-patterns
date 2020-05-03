@@ -1,6 +1,6 @@
 # Design Patterns
 
-![Image description](https://github.com/mantunesribeiro38/test-dev/blob/master/designpatterns.png)
+![Image description](https://github.com/mantunesribeiro38/design-patterns/blob/master/designpatterns.png)
 
 
 Repositório criado para estudar os padrões de projeto.
